@@ -1,0 +1,7 @@
+Big data refers to the large, diverse sets of information 
+that grow at ever-increasing rates. 
+It encompasses the volume of information, 
+the velocity or speed at which it is created and collected, 
+and the variety or scope of the data points being 
+covered (known as the "three v's" of big data). 
+Big data often comes from data mining and arrives in multiple formats.
